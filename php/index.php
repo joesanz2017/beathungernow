@@ -1,1 +1,1 @@
-<?php header( 'Location: /index4.html' ) ;  ?>
+<?php header( 'Location: https://goo.gl/kRmp2N' ) ;  ?>

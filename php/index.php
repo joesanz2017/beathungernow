@@ -1,1 +1,1 @@
-<?php header( 'Locattion: https://portfolioboostrap.000webhostapp.com/PortBoot/PortBoot/Beathunger%20now%20home/Beathunger%20now%20home/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/index4.html' ) ;  ?>
+<?php header( 'Locattion: /index4.html' ) ;  ?>

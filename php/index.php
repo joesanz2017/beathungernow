@@ -1,1 +1,1 @@
-<?php header( 'Location: https://goo.gl/kRmp2N' ) ;  ?>
+<?php header( 'Locattion: https://portfolioboostrap.000webhostapp.com/PortBoot/PortBoot/Beathunger%20now%20home/Beathunger%20now%20home/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/index4.html' ) ;  ?>
